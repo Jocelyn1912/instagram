@@ -27,6 +27,10 @@ header div img {
 	width: 10em;
 }
 
+.rojo{
+	color: red;
+}
+
 /* Estilos imágen y su contenedor */
 
 .img {
